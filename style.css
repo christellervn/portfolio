@@ -11,7 +11,7 @@ a{
 }
 .hero{
     width: 100%;
-    height: 100vh;
+    height: 100%;
     /*background-color: #fff;*/
     background-image: url('https://drive.google.com/uc?export=view&id=1OI_WSDrOPrOk5MsA2EgjZFiVC7gF7pfp');
     background-size: cover;
