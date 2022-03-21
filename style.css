@@ -15,10 +15,6 @@ a{
     /*background-color: #fff;*/
     background-image: url('banner.png');
     background-size: cover;
-    background-position: center center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-color: #fff;
 }
 .hero2{
     width: 100%;
